@@ -1,0 +1,7 @@
+.env
+data/document.pdf
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.DS_Store
